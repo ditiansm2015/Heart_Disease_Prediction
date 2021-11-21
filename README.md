@@ -15,7 +15,3 @@ The algorithms used are as follows  - 1. Random Forest Classifier    2. K-Neares
    11. the slope of the peak exercise ST segment
    12. number of major vessels (0-3) colored by flourosopy
    13. thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
-
-
-
-	![image](https://user-images.githubusercontent.com/19952959/142760790-610e1536-bd8e-4c1a-a053-f66b70ae2e86.png)
