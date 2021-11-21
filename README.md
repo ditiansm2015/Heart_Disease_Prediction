@@ -2,8 +2,8 @@
 This repo is all about using Machine Learning Classifier to detect if a person has heart disease or not based on 13 given parameters
 
 #### The algorithms used are as follows  -
-1. Random Forest Classifier    
-2. K-Nearest Neighbour
+1. Random Forest Classifier    (80.46236559139786 % Accuracy)
+2. K-Nearest Neighbour         (80.46236559139786 % Accuracy)
    
    
    
