@@ -29,6 +29,6 @@ This repo is all about using Machine Learning Classifier to detect if a person h
 https://www.kaggle.com/ronitf/heart-disease-uci
 
 
-Make sure that the CSV file name on local system and in the below code is same. Else it will throw an error
+Make sure that the CSV file name on local system and inside pd.read_csv() is same. Else it will throw an error
       
-df = pd.read_csv('heart_disease_dataset.csv')
+
