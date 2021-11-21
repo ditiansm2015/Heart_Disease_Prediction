@@ -1,7 +1,7 @@
 # Heart_Disease_Prediction
 This repo is all about using Machine Learning Classifier to detect if a person has heart disease or not based on 13 given parameters
 
-#### The algorithms used are as follows  - 
+#### The algorithms used are as follows  -
 1. Random Forest Classifier    
 2. K-Nearest Neighbour
    
@@ -23,3 +23,7 @@ This repo is all about using Machine Learning Classifier to detect if a person h
 11. the slope of the peak exercise ST segment
 12. number of major vessels (0-3) colored by flourosopy
 13. thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
+
+
+#### The Dataset can be downloaded from the following Kaggle Link
+https://www.kaggle.com/ronitf/heart-disease-uci
