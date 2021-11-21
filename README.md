@@ -1,12 +1,15 @@
 # Heart_Disease_Prediction
-This repo is all about using Machine Learning Classifier to detect if a person has heart disease or not based on 14 given parameters
-The algorithms used are as follows  - 
+This repo is all about using Machine Learning Classifier to detect if a person has heart disease or not based on 13 given parameters
+
+**The algorithms used are as follows  - **
 1. Random Forest Classifier    
 2. K-Nearest Neighbour
    
    
    
-The input parameters are 
+   
+   
+**The input parameters are **
 1. age
 2. sex
 3. chest pain type (4 values)
