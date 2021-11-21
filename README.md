@@ -9,7 +9,7 @@ This repo is all about using Machine Learning Classifier to detect if a person h
    
    
    
-### The input parameters are
+#### The input parameters are
 1. age
 2. sex
 3. chest pain type (4 values)
